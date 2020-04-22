@@ -1,5 +1,6 @@
 # ATMS597_Project5_GroupB 
 Group members: Divyansh Chug, Dongwei Fu, Carolina Bieri <br>
+Assigned ASOS location: Des Moines, IA (Station name KDSM) <br>
 
 <b>Goals:</b> <br>
 -Train a logistic regression model to predict whether it will snow or rain <br>
@@ -15,7 +16,8 @@ ATMS597_Project5_process.ipynb: Notebook to parse METAR in downloaded files and 
 [Brier Skill Score calculation](https://www.statisticshowto.com/brier-score/)
 
 <b>Data:</b><br>
-Data were retrieved from this FTP site: <ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/>
+Data were retrieved from this FTP site: ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/ <br>
+
 
 <b>Results summary:</b>
 | Model       | Training BSS    | Validation BSS  |
