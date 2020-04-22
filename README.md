@@ -9,7 +9,7 @@ Group members: Divyansh Chug, Dongwei Fu, Carolina Bieri <br>
 <b>Repository contents:</b><br>
 
 <b>References:</b></br>
-[scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+[scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) <br>
 [Brier Skill Score calculation](https://www.statisticshowto.com/brier-score/)
 
 <b>Results summary:</b>
