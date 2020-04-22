@@ -1,6 +1,6 @@
 # ATMS597_Project5_GroupB 
-Group members: Divyansh Chug, Dongwei Fu, Carolina Bieri <br>
-Assigned ASOS location: Des Moines, IA (Station name KDSM) <br>
+<b>Group members:</b> Divyansh Chug, Dongwei Fu, Carolina Bieri <br>
+<b>Assigned ASOS location:</b> Des Moines, IA (Station name KDSM) <br>
 
 <b>Goals:</b> <br>
 -Train a logistic regression model to predict whether it will snow or rain <br>
