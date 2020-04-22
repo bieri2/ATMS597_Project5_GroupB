@@ -15,7 +15,7 @@ ATMS597_Project5_process.ipynb: Notebook to parse METAR in downloaded files and 
 [Brier Skill Score calculation](https://www.statisticshowto.com/brier-score/)
 
 <b>Data:</b><br>
-Data were retrieved from this FTP site: ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/
+Data were retrieved from this FTP site: [ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/]
 
 <b>Results summary:</b>
 | Model       | Training BSS    | Validation BSS  |
