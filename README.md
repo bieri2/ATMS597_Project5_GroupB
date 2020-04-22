@@ -12,8 +12,8 @@ Group members: Divyansh Chug, Dongwei Fu, Carolina Bieri <br>
 [scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
 <b>Results summary:</b>
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Model       | Training RSS    | Validation RSS  |
+| ----------- |:---------------:| ---------------:|
+| Logistic Regression | TBD | TBD |
+| TBD | TBD | TBD |
+
