@@ -13,7 +13,7 @@ ATMS597_Project5_process.ipynb - Notebook to parse METAR in downloaded files and
 
 <b>References:</b></br>
 [scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) <br>
-[Brier Skill Score calculation](https://www.statisticshowto.com/brier-score/)
+[Brier Skill Score calculation](https://www.statisticshowto.com/brier-score/) <br>
 [ASOS archive](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos) <br>
 
 <b>Data:</b><br>
