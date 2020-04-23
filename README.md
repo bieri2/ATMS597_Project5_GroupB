@@ -12,7 +12,7 @@ ATMS597_Project5_download.ipynb - Notebook to download ASOS data from FTP server
 ATMS597_Project5_process.ipynb - Notebook to parse METAR in downloaded files and create one DataFrame saved as a .csv. <br>
 ATMS597_Project5_SVM_crossvalidation.ipynb - Notebook to perform grid search and derive the best hyperparameters for SVM model. <br>
 ATMS597_Project5_SVM_classifier.ipynb - Notebook to predict snow or run using Support Vector Machine <br>
-Logistic_Regression.ipynb - Notebook to perform Logistic Regression.
+ATMS597_Project5_Logistic_Regression.ipynb - Notebook to perform Logistic Regression. <br>
 
 <b>References:</b></br>
 [scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) <br>
