@@ -20,6 +20,7 @@ ATMS597_Project5_Logistic_Regression.ipynb - Notebook to perform Logistic Regres
 [scikit-learn Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html) <br>
 [Brier Skill Score calculation](https://www.statisticshowto.com/brier-score/) <br>
 [ASOS archive](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos) <br>
+[MetPy parse_metar_to_dataframe](https://unidata.github.io/MetPy/latest/api/generated/metpy.io.parse_metar_to_dataframe.html) <br>
 
 
 <b>Data:</b><br>
