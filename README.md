@@ -16,8 +16,11 @@ ATMS597_Project5_Logistic_Regression.ipynb - Notebook to perform Logistic Regres
 
 <b>References:</b></br>
 [scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) <br>
+[scikit-learn Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier) <br>
+[scikit-learn Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html) <br>
 [Brier Skill Score calculation](https://www.statisticshowto.com/brier-score/) <br>
 [ASOS archive](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos) <br>
+
 
 <b>Data:</b><br>
 Data were retrieved from this FTP site: ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/ <br>
